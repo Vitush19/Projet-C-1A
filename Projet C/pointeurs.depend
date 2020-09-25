@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1494425148 source:d:\projet bis\pointeurs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1494347122 source:e:\projet bis\pointeurs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
